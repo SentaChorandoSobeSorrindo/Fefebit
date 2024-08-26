@@ -1,6 +1,6 @@
 ## Bem vindo ao meu perfil 💙
 
- Me chamo Guilherme Francisco Batista
+ Me chamo Vitor Eduardo Cezario Ribeiro 
 
  -Estou estudando no Alura
  -Estou me desenvolvendo em: JavaScript
@@ -8,7 +8,7 @@
 
  ## Entrar em contato comigo 🔊
 
- -00001136856663sp@al.educacao.sp.gov.br
+ -00001110596339sp@al.educacao.sp.gov.br
 
 
  ![]()
